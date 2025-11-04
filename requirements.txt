@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+psycopg2-binary
+python-dotenv
+pydantic
+bcrypt
+python-multipart
+# Uncomment below if you want AI/email later
+# pypdf2
+# python-docx
+# openai
+# sendgrid
+# supabase
